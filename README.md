@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=MySql&logoColor=white"/></a>&nbsp 
-
   </p>
-<br>
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
   <p align="center">
@@ -23,14 +21,6 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/GitHub-81717?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp 
 </p>
-<br>
-
-
-
-
-
-
-
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
