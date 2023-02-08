@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=brownsally2's%20github&color=gradient&height=200)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=brownsally2's%20github&color=gradient&height=180&fontSize=50)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
   <p align="center">
@@ -26,6 +26,7 @@
 <div align="center">
 
 ![brownsally2's github stats](https://github-readme-stats.vercel.app/api?username=brownsally2&show_icons=true)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownsally2&layout=compact)](https://github.com/brownsally2/github-readme-stats)
 
 <div align="center">
