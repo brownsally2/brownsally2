@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heej0258)](https://solved.ac/heej0258)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heej0258)](https://solved.ac/heej0258) -->
 
 
